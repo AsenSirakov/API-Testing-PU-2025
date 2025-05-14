@@ -1,7 +1,7 @@
 {
-    "TestConfiguration": {
-        "BaseUrl": "https://gorest.co.in/public/v2/",
-        "UsersEndpoint": "users",
-        "Token": "bbb78baeaa8eb6766958e7aed8d8870c7a4cb34e086d706c010de5dfcdf4b6d5"
-    }
+  "TestConfiguration": {
+    "BaseUrl": "https://gorest.co.in/public/v2/",
+    "UsersEndpoint": "users",
+    "Token": "9b201a5f361c972c0c2e37d4376169c2eb7af37c226edd65ce4eb5f60bbfb3e8"
+  }
 }
