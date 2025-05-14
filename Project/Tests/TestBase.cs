@@ -8,6 +8,7 @@ namespace FinalProject.Tests
     public class TestBase
     {
         protected HttpClient Client;
+        protected UserService UserService;
         private ServiceProvider _serviceProvider;
 
         [OneTimeSetUp]
@@ -23,6 +24,7 @@ namespace FinalProject.Tests
 
             var httpClientProvider = _serviceProvider.GetRequiredService<HttpClientProvider>();
             Client = httpClientProvider.Client;
+            UserService = _serviceProvider.GetRequiredService<UserService>();
         }
 
         [OneTimeTearDown]
