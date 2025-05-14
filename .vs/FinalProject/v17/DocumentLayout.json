@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\framework\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\framework\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\tests\\debugtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\tests\\debugtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\tests\\userstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\tests\\userstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\framework\\service\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\framework\\service\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\framework\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\framework\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\framework\\helpers\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\framework\\helpers\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|c:\\users\\asens\\github\\api-testing-pu-2025\\project\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA9F604B-F6DA-427B-B999-231C90BC5614}|Project\\FinalProject.csproj|solutionrelative:project\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DebugTest.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Tests\\DebugTest.cs",
-              "RelativeDocumentMoniker": "Project\\Tests\\DebugTest.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Tests\\DebugTest.cs",
-              "RelativeToolTip": "Project\\Tests\\DebugTest.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T11:10:29.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "config.json",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\config.json",
-              "RelativeDocumentMoniker": "Project\\config.json",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\config.json",
-              "RelativeToolTip": "Project\\config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T10:53:50.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersTests.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Tests\\UsersTests.cs",
-              "RelativeDocumentMoniker": "Project\\Tests\\UsersTests.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Tests\\UsersTests.cs",
-              "RelativeToolTip": "Project\\Tests\\UsersTests.cs",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAiwA4BAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:51:08.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TestBase.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Tests\\TestBase.cs",
-              "RelativeDocumentMoniker": "Project\\Tests\\TestBase.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Tests\\TestBase.cs",
-              "RelativeToolTip": "Project\\Tests\\TestBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:49:56.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceRegistry.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Service\\ServiceRegistry.cs",
-              "RelativeDocumentMoniker": "Project\\Framework\\Service\\ServiceRegistry.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Service\\ServiceRegistry.cs",
-              "RelativeToolTip": "Project\\Framework\\Service\\ServiceRegistry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:49:42.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Project\\Framework\\Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Service\\UserService.cs",
-              "RelativeToolTip": "Project\\Framework\\Service\\UserService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:49:14.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TestDataGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Helpers\\TestDataGenerator.cs",
-              "RelativeDocumentMoniker": "Project\\Framework\\Helpers\\TestDataGenerator.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Helpers\\TestDataGenerator.cs",
-              "RelativeToolTip": "Project\\Framework\\Helpers\\TestDataGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:48:15.749Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Models\\UserResponse.cs",
-              "RelativeDocumentMoniker": "Project\\Framework\\Models\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\Framework\\Models\\UserResponse.cs",
-              "RelativeToolTip": "Project\\Framework\\Models\\UserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:47:06.788Z",
+              "Title": "FinalProject",
+              "DocumentMoniker": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "Project\\FinalProject.csproj",
+              "ToolTip": "C:\\Users\\asens\\GitHub\\API-Testing-PU-2025\\Project\\FinalProject.csproj",
+              "RelativeToolTip": "Project\\FinalProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T11:38:47.073Z",
               "EditorCaption": ""
             }
           ]
